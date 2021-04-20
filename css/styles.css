@@ -1,0 +1,19 @@
+body {
+  background-color: #EAF6F6;
+}
+h1 {
+  color: #66BFBF ;
+  font-family:cursive;
+}
+h3 {
+  color: #66BFBF ;
+  font-style: oblique;
+}
+hr {
+  border-style: dotted;
+  border-collapse: collapse;
+  border-width: 5px 0 0 0;
+  border-color: grey;
+  width: 4%;
+
+}
